@@ -1,7 +1,7 @@
 'use client';
 
 import { AppBar, Avatar, Box, Container, IconButton, Toolbar, Tooltip, Typography } from "@mui/material";
-import UlrikenLogo from "../ulriken-logo/ulriken-logo.compontent";
+import UlrikenLogo from "../../../shared/components/ulriken-logo/ulriken-logo.compontent";
 import { MouseEvent, useState } from "react";
 import MenuIcon from '@mui/icons-material/Menu';
 import Menu from '@mui/material/Menu';
@@ -81,7 +81,6 @@ const NavBar = () => {
         <AppBar position="static">
             <Container maxWidth="xl">
                 <Toolbar disableGutters>
-                    
 
                     <Box sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }}>
                         <UlrikenLogo width={150} height={75} />
