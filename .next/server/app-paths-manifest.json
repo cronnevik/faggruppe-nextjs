@@ -1,0 +1,4 @@
+{
+  "/basics/page": "app/basics/page.js",
+  "/basics/konsulenter-ssr/page": "app/basics/konsulenter-ssr/page.js"
+}
