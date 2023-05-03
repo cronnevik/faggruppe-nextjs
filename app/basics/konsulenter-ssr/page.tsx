@@ -1,10 +1,5 @@
-import { Konsulent } from "@/app/api/konsulenter/konsulent.types";
 import Link from "next/link";
-
-const hentKonsulenter = async(): Promise<Konsulent[]> => {
-    const resultat = await fetch('http:0.0.0.0:3000/api/konsulenter');
-    return await resultat.json();
-}
+import hentKonsulenter from "../utils/henKonsulenter";
 
 const KonsulenterSSR = async() => {
     const konsulenter = await hentKonsulenter();

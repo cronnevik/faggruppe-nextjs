@@ -749,7 +749,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -757,7 +757,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -765,7 +765,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       }
@@ -775,7 +775,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "*",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -783,7 +783,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -791,7 +791,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "default",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -799,7 +799,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "defaultHead",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -807,7 +807,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "charSet",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -815,7 +815,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "name",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -823,7 +823,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "content",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -831,7 +831,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"title\"",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -839,7 +839,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"base\"",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -847,7 +847,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"meta\"",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -855,7 +855,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "TODO(prateekbh@)",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -863,7 +863,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"https",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -871,7 +871,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "here",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -879,7 +879,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "https",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -887,7 +887,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "reduceComponentsToState",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -895,7 +895,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "headManager",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -903,7 +903,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "inAmpMode",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       },
@@ -911,93 +911,33 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "value",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/layout:static/chunks/app/basics/layout.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./app/mui/components/navbar/navbar.component.tsx": {
+    "(app-client)/./app/basics/konsulenter-ssr/error.tsx": {
       "*": {
-        "id": "(sc_client)/./app/mui/components/navbar/navbar.component.tsx",
+        "id": "(sc_client)/./app/basics/konsulenter-ssr/error.tsx",
         "name": "*",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/konsulenter-ssr/error:static/chunks/app/basics/konsulenter-ssr/error.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./app/mui/components/navbar/navbar.component.tsx",
+        "id": "(sc_client)/./app/basics/konsulenter-ssr/error.tsx",
         "name": "",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
+          "app/basics/konsulenter-ssr/error:static/chunks/app/basics/konsulenter-ssr/error.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./app/mui/components/navbar/navbar.component.tsx",
+        "id": "(sc_client)/./app/basics/konsulenter-ssr/error.tsx",
         "name": "default",
         "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./app/mui/mui-setup.tsx": {
-      "*": {
-        "id": "(sc_client)/./app/mui/mui-setup.tsx",
-        "name": "*",
-        "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./app/mui/mui-setup.tsx",
-        "name": "",
-        "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/mui/mui-setup.tsx",
-        "name": "default",
-        "chunks": [
-          "app/mui/layout:static/chunks/app/mui/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "*",
-        "chunks": [
-          "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "",
-        "chunks": [
-          "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
-        ],
-        "async": false
-      },
-      "suspense": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "suspense",
-        "chunks": [
-          "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
-        ],
-        "async": false
-      },
-      "NoSSR": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "NoSSR",
-        "chunks": [
-          "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
+          "app/basics/konsulenter-ssr/error:static/chunks/app/basics/konsulenter-ssr/error.js"
         ],
         "async": false
       }
@@ -1005,11 +945,11 @@
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\basics\\layout": [
-      "static/css/app/basics/layout.css"
-    ],
     "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\layout": [
       "static/css/app/layout.css"
+    ],
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\basics\\layout": [
+      "static/css/app/basics/layout.css"
     ],
     "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\page": [
       "static/css/app/page.css"
@@ -2696,6 +2636,28 @@
       ],
       "async": false
     },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\globals.scss#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\materialize-css\\dist\\css\\materialize.min.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css",
+        "static/css/app/page.css"
+      ]
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
@@ -2762,7 +2724,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2770,7 +2732,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2778,7 +2740,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2786,7 +2748,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2794,7 +2756,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2802,7 +2764,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2810,7 +2772,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2818,7 +2780,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2826,7 +2788,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2834,7 +2796,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2842,7 +2804,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2850,7 +2812,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2858,7 +2820,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2866,7 +2828,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2874,7 +2836,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2882,7 +2844,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2890,7 +2852,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2898,7 +2860,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2906,7 +2868,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2914,7 +2876,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2922,7 +2884,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2930,7 +2892,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2938,7 +2900,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2946,7 +2908,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2954,7 +2916,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2962,7 +2924,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2970,7 +2932,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2978,7 +2940,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2986,7 +2948,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -2994,7 +2956,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3002,7 +2964,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3010,7 +2972,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3018,7 +2980,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3026,7 +2988,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3034,7 +2996,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3042,7 +3004,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3050,7 +3012,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3058,7 +3020,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3066,7 +3028,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3074,7 +3036,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3082,7 +3044,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
     },
@@ -3090,31 +3052,9 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/layout:static/chunks/app/basics/layout.js"
       ],
       "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\globals.scss#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\materialize-css\\dist\\css\\materialize.min.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css",
-        "static/css/app/page.css"
-      ]
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     },
     "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\page.module.scss#": {
       "id": "null",
@@ -3123,115 +3063,27 @@
         "static/css/app/page.css"
       ]
     },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\components\\navbar\\navbar.component.tsx": {
-      "id": "(app-client)/./app/mui/components/navbar/navbar.component.tsx",
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\basics\\konsulenter-ssr\\error.tsx": {
+      "id": "(app-client)/./app/basics/konsulenter-ssr/error.tsx",
       "name": "*",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/konsulenter-ssr/error:static/chunks/app/basics/konsulenter-ssr/error.js"
       ],
       "async": false
     },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\components\\navbar\\navbar.component.tsx#": {
-      "id": "(app-client)/./app/mui/components/navbar/navbar.component.tsx",
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\basics\\konsulenter-ssr\\error.tsx#": {
+      "id": "(app-client)/./app/basics/konsulenter-ssr/error.tsx",
       "name": "",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
+        "app/basics/konsulenter-ssr/error:static/chunks/app/basics/konsulenter-ssr/error.js"
       ],
       "async": false
     },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\components\\navbar\\navbar.component.tsx#default": {
-      "id": "(app-client)/./app/mui/components/navbar/navbar.component.tsx",
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\basics\\konsulenter-ssr\\error.tsx#default": {
+      "id": "(app-client)/./app/basics/konsulenter-ssr/error.tsx",
       "name": "default",
       "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\mui-setup.tsx": {
-      "id": "(app-client)/./app/mui/mui-setup.tsx",
-      "name": "*",
-      "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\mui-setup.tsx#": {
-      "id": "(app-client)/./app/mui/mui-setup.tsx",
-      "name": "",
-      "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\mui-setup.tsx#default": {
-      "id": "(app-client)/./app/mui/mui-setup.tsx",
-      "name": "default",
-      "chunks": [
-        "app/mui/layout:static/chunks/app/mui/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "*",
-      "chunks": [
-        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
-      ],
-      "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "*",
-      "chunks": [
-        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
-      ],
-      "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "",
-      "chunks": [
-        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
-      ],
-      "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "",
-      "chunks": [
-        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
-      ],
-      "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#suspense": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "suspense",
-      "chunks": [
-        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
-      ],
-      "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#suspense": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "suspense",
-      "chunks": [
-        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
-      ],
-      "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#NoSSR": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "NoSSR",
-      "chunks": [
-        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
-      ],
-      "async": false
-    },
-    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#NoSSR": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-      "name": "NoSSR",
-      "chunks": [
-        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
+        "app/basics/konsulenter-ssr/error:static/chunks/app/basics/konsulenter-ssr/error.js"
       ],
       "async": false
     }
