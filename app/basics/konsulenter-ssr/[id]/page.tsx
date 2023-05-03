@@ -1,21 +1,9 @@
 import { GetKonsulentParams, Konsulent } from "@/app/api/konsulenter/konsulent.types";
-import { notFound } from "next/navigation";
 import KonsulentInfo from "../../components/konsulent-info/konsulent-info.component";
-
-const hentKonsulent = async(id: string): Promise<Konsulent> => {
-    const resultat = await fetch(`http:0.0.0.0:3000/api/konsulenter/${id}`, {
-        cache: 'no-store'
-    })
-
-    if (!resultat.ok) {
-        return notFound();
-    }
-
-    return await resultat.json()
-}
+import { hentKonsulentSSR } from "../../utils/data-fetching/data-fetching-ssr";
 
 const KonsulentPageSSR = async({ params }: GetKonsulentParams) => {
-    const konsulent = await hentKonsulent(params.id);
+    const konsulent = await hentKonsulentSSR(params.id);
     return (
         <>
             {

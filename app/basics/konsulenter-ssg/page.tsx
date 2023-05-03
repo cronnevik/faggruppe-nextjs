@@ -1,23 +1,19 @@
 import Link from "next/link";
-import hentKonsulenter from "../utils/henKonsulenter";
+import { hentAlleKonsulenterSSG } from "../utils/data-fetching/data-fetching-ssg";
+import type { Metadata } from "next";
+import KonsulentListe from "../components/konsulent-liste/konsulent-liste.component";
+
+export const metadata: Metadata = {
+    title: 'Konsulenter-SSG',
+}
 
 const KonsulenterSSG = async() => {
-    const konsulenter = await hentKonsulenter();
+    const konsulenter = await hentAlleKonsulenterSSG();
 
     const renderKonsulenter = () => {
         if (konsulenter && konsulenter.length > 0) {
             return(
-                <ul className="collection">
-                    {
-                        konsulenter.map(konsulent => {
-                            return (
-                                <li className="collection-item" key={konsulent.id}>
-                                    <Link href={`/basics/konsulenter-ssg/${konsulent.id}`} >{konsulent.personalia.navn}</Link>
-                                </li>
-                            )
-                        }) 
-                    }
-                </ul>
+                <KonsulentListe konsulenter={konsulenter} itemLink="/basics/konsulenter-ssg" /> 
             )
         }
     }

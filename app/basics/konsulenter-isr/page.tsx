@@ -1,23 +1,19 @@
 import Link from "next/link";
-import hentKonsulenter from "../utils/henKonsulenter";
+import { hentAlleKonsulenterISR } from "../utils/data-fetching/data-fetching.isr";
+import type { Metadata } from "next";
+import KonsulentListe from "../components/konsulent-liste/konsulent-liste.component";
+
+export const metadata: Metadata = {
+    title: 'Konsulenter-ISR',
+}
 
 const KonsulenterISR = async() => {
-    const konsulenter = await hentKonsulenter();
+    const konsulenter = await hentAlleKonsulenterISR();
 
     const renderKonsulenter = () => {
         if (konsulenter && konsulenter.length > 0) {
             return(
-                <ul className="collection">
-                    {
-                        konsulenter.map(konsulent => {
-                            return (
-                                <li className="collection-item" key={konsulent.id}>
-                                    <Link href={`/basics/konsulenter-isr/${konsulent.id}`} >{konsulent.personalia.navn}</Link>
-                                </li>
-                            )
-                        }) 
-                    }
-                </ul>
+                <KonsulentListe konsulenter={konsulenter} itemLink="/basics/konsulenter-isr" /> 
             )
         }
     }
