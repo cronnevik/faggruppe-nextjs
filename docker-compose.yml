@@ -1,28 +1,15 @@
-version: "3.9"
+version: "3"
 
 services:
   nextjsfagkveld:
-    # Specify the image to start the container from
-    #image: node:18.13.0-alpine
-    container_name: nextjsfagkveld
-    # Bygg fra Dockerfile, allows installs to be run
     build:
       context: .
       dockerfile: Dockerfile
-
-    tty: true
-
-    # Expose ports (HOST:CONTAINER)
+    container_name: nextjsfagkveld
+    restart: always
+    volumes:
+      - ./:/app
+      - /app/node_modules
+      - /app/.next
     ports:
       - 3000:3000
-      
-    # Set environment variables
-    #environment:
-
-    # Mount host directories to container directories
-    volumes:
-      - ./source:/source
-      - npm-volume:/source/node_modules
-
-volumes:
-  npm-volume:

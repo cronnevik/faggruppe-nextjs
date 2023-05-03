@@ -1,0 +1,18 @@
+{
+  "cssImports": {
+    "/source/app/page.tsx": [
+      "/source/app/page.module.scss"
+    ],
+    "/source/app/layout.tsx": [
+      "/source/app/globals.css",
+      "/source/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  },
+  "cssModules": {
+    "/source/app/page": [
+      "/source/app/page.module.scss",
+      "/source/app/globals.css",
+      "/source/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
