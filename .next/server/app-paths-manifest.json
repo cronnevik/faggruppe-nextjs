@@ -1,5 +1,0 @@
-{
-  "/basics/page": "app/basics/page.js",
-  "/api/konsulenter/route": "app/api/konsulenter/route.js",
-  "/basics/konsulenter-ssr/page": "app/basics/konsulenter-ssr/page.js"
-}
