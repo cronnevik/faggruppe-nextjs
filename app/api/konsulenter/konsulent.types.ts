@@ -16,3 +16,9 @@ export interface Adresse {
     postnummer?: string,
     poststed?: string,
 }
+
+export type GetKonsulentParams = {
+    params: {
+        id: string
+    }
+}

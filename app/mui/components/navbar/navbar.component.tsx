@@ -7,8 +7,8 @@ import Menu from '@mui/material/Menu';
 import MenuItem from '@mui/material/MenuItem';
 import Button from '@mui/material/Button';
 import PersonIcon from '@mui/icons-material/Person';
-import UlrikenLogo from "@/app/shared/components/ulriken-logo/ulriken-logo.compontent";
 import { useRouter } from "next/navigation";
+import Image from "next/image";
 
 const pages = [{tittel: 'Hjem', url: '/'}, {tittel: 'Konsultenter', url: '/mui/konsulenter'}, {tittel: 'Kompetanse', url: '/mui/kompetanse'}];
 
@@ -66,7 +66,7 @@ const NavBar = () => {
                     </Menu>
                 </Box>
                 <Box sx={{ display: { xs: 'flex', md: 'none' }, mr: 1 }}>
-                    <UlrikenLogo width={150} height={75} />
+                    <Image priority src="/images/ulriken-logo.svg" alt='Ulriken Consulting Logo' width={150} height={75} />
                 </Box>
             </>
         )
@@ -78,7 +78,7 @@ const NavBar = () => {
                 <Toolbar disableGutters>
 
                     <Box sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }}>
-                        <UlrikenLogo width={150} height={75} />
+                        <Image priority src="/images/ulriken-logo.svg" alt='Ulriken Consulting Logo' width={150} height={75} />
                     </Box>
 
                     <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>

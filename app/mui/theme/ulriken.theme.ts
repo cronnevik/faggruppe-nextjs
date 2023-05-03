@@ -1,6 +1,6 @@
-import { createTheme } from "@mui/material"
+import createTheme from '@mui/material/styles/createTheme';
 
-export const ulrikenTheme = createTheme({
+const ulrikenTheme = createTheme({
     palette: {
         primary: {
             main: '#637D37',
@@ -8,4 +8,5 @@ export const ulrikenTheme = createTheme({
             dark: '#273803'
         }
     }
-})
+});
+export default ulrikenTheme;

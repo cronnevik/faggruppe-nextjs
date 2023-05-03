@@ -1,3 +1,7 @@
 {
-  "/page": "app/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/basics/page": "app/basics/page.js",
+  "/api/konsulenter/[id]/route": "app/api/konsulenter/[id]/route.js",
+  "/basics/konsulenter-ssr/page": "app/basics/konsulenter-ssr/page.js",
+  "/basics/konsulenter-ssr/[id]/page": "app/basics/konsulenter-ssr/[id]/page.js"
 }

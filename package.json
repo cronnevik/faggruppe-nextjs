@@ -18,6 +18,7 @@
     "@types/react-dom": "18.2.1",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.2",
+    "materialize-css": "^1.0.0-rc.2",
     "next": "13.3.2",
     "normalize.css": "^8.0.1",
     "react": "18.2.0",

@@ -1,8 +1,9 @@
 "use client"
 
-import { CssBaseline, ThemeProvider } from '@mui/material';
+import ThemeProvider from '@mui/material/styles/ThemeProvider';
+import CssBaseline from '@mui/material/CssBaseline';
 import { NextAppDirEmotionCacheProvider } from "tss-react/next/appDir"
-import { ulrikenTheme } from './theme/ulriken.theme';
+import ulrikenTheme from './theme/ulriken.theme';
 
 interface MuiSetupProps {
     children: React.ReactNode

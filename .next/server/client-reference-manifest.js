@@ -743,19 +743,280 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "default",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "defaultHead": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "defaultHead",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "charSet": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "charSet",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "name": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "name",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "content": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "content",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "\"title\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"title\"",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "\"base\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"base\"",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "\"meta\"": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"meta\"",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "TODO(prateekbh@)": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "TODO(prateekbh@)",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "\"https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "\"https",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "here": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "here",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "https": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "https",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "reduceComponentsToState": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "reduceComponentsToState",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "headManager": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "headManager",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "inAmpMode": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "inAmpMode",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "value",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/mui/components/navbar/navbar.component.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/mui/components/navbar/navbar.component.tsx",
+        "name": "*",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/mui/components/navbar/navbar.component.tsx",
+        "name": "",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/mui/components/navbar/navbar.component.tsx",
+        "name": "default",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/mui/mui-setup.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/mui/mui-setup.tsx",
+        "name": "*",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/mui/mui-setup.tsx",
+        "name": "",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/mui/mui-setup.tsx",
+        "name": "default",
+        "chunks": [
+          "app/mui/layout:static/chunks/app/mui/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "*",
+        "chunks": [
+          "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "",
+        "chunks": [
+          "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
+        ],
+        "async": false
+      },
+      "suspense": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "suspense",
+        "chunks": [
+          "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
+        ],
+        "async": false
+      },
+      "NoSSR": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "NoSSR",
+        "chunks": [
+          "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
+        ],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "/source/app/page": [
-      "static/css/app/page.css"
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\basics\\layout": [
+      "static/css/app/basics/layout.css"
     ],
-    "/source/app/layout": [
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\layout": [
       "static/css/app/layout.css"
+    ],
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\page": [
+      "static/css/app/page.css"
     ]
   },
   "clientModules": {
-    "/source/node_modules/next/dist/shared/lib/app-router-context.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -763,7 +1024,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -771,7 +1032,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/app-router-context.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -779,7 +1040,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -787,15 +1048,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
-      "name": "CacheStates",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/source/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -803,7 +1056,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -811,7 +1072,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -819,7 +1080,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -827,7 +1088,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -835,7 +1096,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -843,7 +1104,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -851,7 +1112,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -859,7 +1120,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -867,7 +1128,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -875,7 +1136,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -883,7 +1144,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -891,7 +1152,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -899,15 +1160,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/source/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -915,7 +1168,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -923,7 +1184,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -931,7 +1192,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/hooks-client-context.js#ParamsContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#ParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "ParamsContext",
       "chunks": [
@@ -939,7 +1200,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#ParamsContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#ParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "ParamsContext",
       "chunks": [
@@ -947,7 +1208,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/hooks-client-context.js#LayoutSegmentsContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#LayoutSegmentsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "LayoutSegmentsContext",
       "chunks": [
@@ -955,7 +1216,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#LayoutSegmentsContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#LayoutSegmentsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "LayoutSegmentsContext",
       "chunks": [
@@ -963,7 +1224,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -971,7 +1232,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -979,7 +1240,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -987,7 +1248,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -995,15 +1256,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/source/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -1011,7 +1264,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -1019,7 +1280,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -1027,7 +1288,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -1035,7 +1296,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -1043,7 +1304,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -1051,7 +1312,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -1059,7 +1320,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -1067,7 +1328,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -1075,7 +1336,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -1083,7 +1344,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -1091,7 +1352,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#TODO-APP": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -1099,7 +1360,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#TODO-APP": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -1107,7 +1368,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#__NA": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -1115,7 +1376,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#__NA": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -1123,7 +1384,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#location": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -1131,7 +1392,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#location": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -1139,7 +1400,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#\"http": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -1147,7 +1408,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#\"http": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -1155,7 +1416,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#searchParams": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -1163,7 +1424,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#searchParams": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -1171,7 +1432,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#pathname": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -1179,7 +1440,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#pathname": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -1187,7 +1448,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#type": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -1195,7 +1456,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#type": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -1203,7 +1464,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#cache": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -1211,7 +1472,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#cache": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -1219,7 +1480,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#status": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -1227,7 +1488,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#status": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -1235,7 +1496,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#data": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -1243,7 +1504,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#data": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -1251,7 +1512,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#subTreeData": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -1259,7 +1520,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#subTreeData": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -1267,7 +1528,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#parallelRoutes": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -1275,7 +1536,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#parallelRoutes": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -1283,7 +1544,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#mutable": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -1291,7 +1552,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#mutable": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -1299,7 +1560,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#isExternalUrl": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -1307,7 +1568,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#isExternalUrl": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -1315,7 +1576,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#locationSearch": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -1323,7 +1584,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#locationSearch": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -1331,7 +1592,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#back": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -1339,7 +1600,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#back": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -1347,7 +1608,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#forward": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -1355,7 +1616,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#forward": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -1363,7 +1624,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#prefetch": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -1371,7 +1632,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#prefetch": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -1379,7 +1640,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#kind": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -1387,7 +1648,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#kind": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -1395,7 +1656,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#replace": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -1403,7 +1664,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#replace": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -1411,7 +1672,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#push": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -1419,7 +1680,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#push": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -1427,7 +1688,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#refresh": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -1435,7 +1696,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#refresh": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -1443,7 +1704,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#origin": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -1451,7 +1712,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#origin": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -1459,7 +1720,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#fastRefresh": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -1467,7 +1728,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#fastRefresh": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -1475,7 +1736,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#router": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -1483,7 +1744,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#router": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -1491,7 +1752,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#url": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -1499,7 +1760,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#url": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -1507,7 +1768,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#tree": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -1515,7 +1776,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#tree": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -1523,7 +1784,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#notFound": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -1531,7 +1792,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#notFound": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -1539,7 +1800,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#notFoundStyles": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -1547,7 +1808,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#notFoundStyles": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -1555,7 +1816,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#asNotFound": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -1563,7 +1824,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#asNotFound": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -1571,7 +1832,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#pushRef": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -1579,7 +1840,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#pushRef": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -1587,7 +1848,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#canonicalUrl": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -1595,7 +1856,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#canonicalUrl": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -1603,7 +1864,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#sync": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -1611,7 +1872,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#sync": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -1619,7 +1880,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#value": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -1627,7 +1888,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#value": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -1635,7 +1896,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#childNodes": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#childNodes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "childNodes",
       "chunks": [
@@ -1643,7 +1904,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#childNodes": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#childNodes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "childNodes",
       "chunks": [
@@ -1651,7 +1912,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#assetPrefix": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -1659,7 +1920,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#assetPrefix": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -1667,7 +1928,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/app-router.js#errorComponent": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -1675,7 +1936,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/app-router.js#errorComponent": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -1683,7 +1944,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -1691,7 +1952,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -1699,7 +1960,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -1707,7 +1968,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -1715,7 +1976,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -1723,7 +1984,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -1731,7 +1992,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -1739,7 +2000,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -1747,7 +2008,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -1755,7 +2016,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -1763,7 +2024,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#error": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -1771,7 +2032,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#error": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -1779,7 +2040,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#https": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -1787,7 +2048,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#https": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -1795,7 +2056,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#fontFamily": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -1803,7 +2064,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#fontFamily": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -1811,7 +2072,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#height": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -1819,7 +2080,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#height": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -1827,7 +2088,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#textAlign": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -1835,7 +2096,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#textAlign": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -1843,7 +2104,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#display": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -1851,7 +2112,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#display": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -1859,7 +2120,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#flexDirection": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -1867,7 +2128,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#flexDirection": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -1875,7 +2136,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#alignItems": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -1883,7 +2144,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#alignItems": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -1891,7 +2152,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#justifyContent": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -1899,7 +2160,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#justifyContent": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -1907,7 +2168,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#desc": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -1915,7 +2176,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#desc": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -1923,7 +2184,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#text": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -1931,7 +2192,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#text": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -1939,7 +2200,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#fontSize": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -1947,7 +2208,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#fontSize": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -1955,7 +2216,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#fontWeight": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -1963,7 +2224,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#fontWeight": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -1971,7 +2232,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#lineHeight": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -1979,7 +2240,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#lineHeight": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -1987,7 +2248,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#margin": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -1995,7 +2256,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#margin": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -2003,7 +2264,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#reset": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2011,7 +2272,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#reset": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2019,7 +2280,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#style": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -2027,7 +2288,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#style": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -2035,7 +2296,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#\"Digest": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -2043,7 +2304,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#\"Digest": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -2051,7 +2312,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#errorComponent": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -2059,7 +2320,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#errorComponent": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -2067,7 +2328,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#errorStyles": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -2075,7 +2336,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#errorStyles": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -2083,7 +2344,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/error-boundary.js#value": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -2091,7 +2352,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/error-boundary.js#value": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -2099,7 +2360,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/layout-router.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -2107,7 +2368,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -2115,7 +2376,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/layout-router.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -2123,7 +2384,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/layout-router.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -2131,7 +2392,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/layout-router.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -2139,7 +2400,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -2147,7 +2408,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/redirect-boundary.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -2155,7 +2416,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -2163,7 +2424,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/redirect-boundary.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -2171,7 +2432,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -2179,7 +2440,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/redirect-boundary.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -2187,7 +2448,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -2195,7 +2456,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -2203,7 +2464,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -2211,7 +2472,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -2219,7 +2480,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -2227,7 +2488,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/redirect-boundary.js#redirect": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -2235,7 +2496,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/redirect-boundary.js#redirect": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -2243,7 +2504,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/redirect-boundary.js#reset": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2251,7 +2512,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/redirect-boundary.js#reset": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2259,7 +2520,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/redirect-boundary.js#router": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -2267,7 +2528,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/redirect-boundary.js#router": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -2275,7 +2536,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/redirect-boundary.js#value": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -2283,7 +2544,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/redirect-boundary.js#value": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -2291,7 +2552,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -2299,7 +2560,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -2307,7 +2568,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/render-from-template-context.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -2315,7 +2576,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -2323,7 +2584,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -2331,7 +2592,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -2339,7 +2600,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -2347,7 +2608,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -2355,7 +2616,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -2363,7 +2624,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -2371,7 +2632,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -2379,7 +2640,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -2387,7 +2648,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -2395,7 +2656,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -2403,7 +2664,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -2411,7 +2672,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -2419,7 +2680,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -2427,7 +2688,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -2435,74 +2696,544 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/source/app/page.module.scss#": {
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\basics\\components\\navbar\\navbar.module.scss#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/basics/layout.css"
+      ]
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\normalize.css\\normalize.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/basics/layout.css"
+      ]
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\client\\image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#charSet": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "charSet",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#name": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "name",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#content": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "content",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"title\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"title\"",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"base\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"base\"",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"meta\"": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"meta\"",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#TODO(prateekbh@)": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "TODO(prateekbh@)",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "\"https",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#here": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "here",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "https",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#reduceComponentsToState": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "reduceComponentsToState",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#headManager": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "headManager",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#inAmpMode": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "inAmpMode",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "value",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\globals.scss#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\materialize-css\\dist\\css\\materialize.min.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css",
+        "static/css/app/page.css"
+      ]
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\page.module.scss#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/page.css"
       ]
     },
-    "/source/node_modules/next/dist/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\components\\navbar\\navbar.component.tsx": {
+      "id": "(app-client)/./app/mui/components/navbar/navbar.component.tsx",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/mui/layout:static/chunks/app/mui/layout.js"
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\components\\navbar\\navbar.component.tsx#": {
+      "id": "(app-client)/./app/mui/components/navbar/navbar.component.tsx",
+      "name": "",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\components\\navbar\\navbar.component.tsx#default": {
+      "id": "(app-client)/./app/mui/components/navbar/navbar.component.tsx",
+      "name": "default",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\mui-setup.tsx": {
+      "id": "(app-client)/./app/mui/mui-setup.tsx",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/mui/layout:static/chunks/app/mui/layout.js"
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\mui-setup.tsx#": {
+      "id": "(app-client)/./app/mui/mui-setup.tsx",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/mui/layout:static/chunks/app/mui/layout.js"
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\app\\mui\\mui-setup.tsx#default": {
+      "id": "(app-client)/./app/mui/mui-setup.tsx",
+      "name": "default",
+      "chunks": [
+        "app/mui/layout:static/chunks/app/mui/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
       ],
       "async": false
     },
-    "/source/node_modules/next/dist/esm/client/link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#suspense": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "suspense",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
       ],
       "async": false
     },
-    "/source/app/globals.css#": {
-      "id": "null",
-      "name": "default",
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#suspense": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "suspense",
       "chunks": [
-        "static/css/app/layout.css"
-      ]
+        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
+      ],
+      "async": false
     },
-    "/source/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#NoSSR": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "NoSSR",
       "chunks": [
-        "static/css/app/layout.css"
-      ]
+        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
+      ],
+      "async": false
+    },
+    "C:\\dev\\faggruppe\\faggruppe-nextjs\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#NoSSR": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "NoSSR",
+      "chunks": [
+        "app/basics/konsulenter-ssr/[id]/page:static/chunks/app/basics/konsulenter-ssr/[id]/page.js"
+      ],
+      "async": false
     }
   }
 }

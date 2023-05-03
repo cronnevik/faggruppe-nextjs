@@ -1,29 +1,14 @@
-.list {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    padding-top: 8px;
-    padding-bottom: 8px;
+.homepage-container {
+    margin: 50px;
+}
 
-    li {
-        display: flex;
-        justify-content: flex-start;
-        align-items: center;
-        text-decoration: none;
-        width: 100%;
-        text-align: left;
-        padding-top: 8px;
-        padding-bottom: 8px;
-        padding-right: 16px;
-        padding-left: 16px;
+.homepage-card-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 50px;
+}
 
-        a {
-            text-decoration: none;
-            color: black;
-            &:hover {
-                color: grey;
-            }
-        }
-    }
+.card-props {
+    background-color: #637D37 !important;
 }
