@@ -13,7 +13,7 @@ export default function HomePage() {
           <div className="card-content white-text">
             <span className="card-title">Basics</span>
             <div>
-              Grunnleggende Next.js features
+              Grunnleggende Next.js features med Materialize.css for styling
             </div>
           </div>
           <div className="card-action">
@@ -25,7 +25,7 @@ export default function HomePage() {
           <div className="card-content white-text">
             <span className="card-title">Material Design</span>
             <div>
-              Bruk av eksternt React component biliotek
+              Oppsett og bruk av eksternt React komponent biliotek
             </div>
           </div>
           <div className="card-action">

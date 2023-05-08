@@ -10,7 +10,9 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
-
+  images: {
+    domains: ['www.uc.no']
+  },
   modularizeImports: {
     "@mui/material": {
       transform: "@mui/material/{{member}}",

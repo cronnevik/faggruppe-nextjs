@@ -1,7 +1,7 @@
 "use client"
 
 import { QueryClient, QueryClientProvider, useQuery } from "react-query";
-import KonsulentListe from "../components/konsulent-liste/konsulent-liste.component";
+import KonsulentListe from "../components/konsulent-cards/konsulent-cards.component";
 
 const queryClient = new QueryClient();
 

@@ -1,6 +1,6 @@
 import type { Metadata } from "next"
 import { hentAlleKonsulenterStreaming } from "../utils/data-fetching/data-fetching-streaming";
-import KonsulentListe from "../components/konsulent-liste/konsulent-liste.component";
+import KonsulentListe from "../components/konsulent-cards/konsulent-cards.component";
 
 export const metadata: Metadata = {
     title: 'Konsulenter-Streaming',

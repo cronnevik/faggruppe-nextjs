@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { hentAlleKonsulenterSSR } from "../utils/data-fetching/data-fetching-ssr";
 import type { Metadata } from "next";
-import KonsulentListe from "../components/konsulent-liste/konsulent-liste.component";
+import KonsulentListe from "../components/konsulent-cards/konsulent-cards.component";
 
 export const metadata: Metadata = {
     title: 'Konsulenter-SSR',

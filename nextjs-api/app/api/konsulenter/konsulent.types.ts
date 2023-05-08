@@ -1,5 +1,6 @@
 export interface Konsulent {
     id: string,
+    bildeURL?: string,
     personalia: Personalia,
     spisskompetanse?: string[]
 }
