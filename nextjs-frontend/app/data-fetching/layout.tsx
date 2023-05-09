@@ -1,5 +1,6 @@
-import BasicNavbar from "./components/navbar/navbar.component";
 import 'normalize.css/normalize.css';
+import BasicNavbar from '../components/navbar/navbar.component';
+import { dataFetchNavItems } from './navbar.data';
 
 interface BasicsLayoutProps {
     children: React.ReactNode
@@ -8,7 +9,7 @@ interface BasicsLayoutProps {
 const BasicsLayout = ({ children }: BasicsLayoutProps) => {
     return (
         <>
-            <BasicNavbar />
+            <BasicNavbar mainTitle='Data Fetching' items={dataFetchNavItems} />
             { children }
 
 

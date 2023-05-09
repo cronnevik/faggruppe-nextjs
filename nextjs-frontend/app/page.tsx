@@ -11,13 +11,13 @@ export default function HomePage() {
         
         <div className={[styles['card-props'], "card"].join(" ")}>
           <div className="card-content white-text">
-            <span className="card-title">Basics</span>
+            <span className="card-title">Data fetching</span>
             <div>
-              Grunnleggende Next.js features med Materialize.css for styling
+              Grunnleggende data fetching feature i Next.js features
             </div>
           </div>
           <div className="card-action">
-            <Link href="/basics">Gå til Basics siden</Link>
+            <Link href="/data-fetching">Gå til data fetching siden</Link>
           </div>
         </div>
 
