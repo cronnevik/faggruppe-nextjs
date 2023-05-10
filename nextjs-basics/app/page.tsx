@@ -1,7 +1,7 @@
-export default function HomePage() {
+export default function HvaViLeverer() {
   return (
     <main>
-      <div>Home page</div>
+      <div>HvaViLeverer</div>
     </main>
   )
 }

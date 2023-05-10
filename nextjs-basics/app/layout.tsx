@@ -1,4 +1,11 @@
+import Navbar from './components/navbar'
 import './globals.scss'
+
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: 'Ulriken Consulting',
+};
 
 export default function RootLayout({
   children,
@@ -7,7 +14,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <Navbar />
+        {children}
+      </body>
     </html>
   )
 }

@@ -10,9 +10,9 @@ module.exports = {
     extend: {
       backgroundColor: {
         primary: {
-          main: '#637D37', // bg-primary-main
-          light: '#99BC5C',
-          dark: '#273803'
+          'main': '#637D37', // bg-primary-main
+          'light': '#99BC5C',
+          'dark': '#273803'
         }
       },
       backgroundImage: {
@@ -24,5 +24,6 @@ module.exports = {
   },
   plugins: [
     require('@tailwindcss/typography'),
+    require('@tailwindcss/aspect-ratio'),
   ],
 }
