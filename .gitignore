@@ -2,6 +2,7 @@
 
 # dependencies
 /nextjs-api/node_modules
+/nextjs-basics/node_modules
 /nextjs-frontend/node_modules
 .pnp
 /source.pnp.js
@@ -11,11 +12,14 @@
 
 # next.js
 /nextjs-api/.next/
+/nextjs-basics/.next/
 /nextjs-frontend/.next/
 /out/
 
 # production
-/build
+/nextjs-api/build
+/nextjs-basics/build
+/nextjs-frontend/build
 
 # misc
 .DS_Store
@@ -28,6 +32,7 @@
 
 # local env files
 /nextjs-api/.env*.local
+/nextjs-basics/.env*.local
 /nextjs-frontend/.env*.local
 
 # vercel
