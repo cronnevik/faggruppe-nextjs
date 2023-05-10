@@ -17,7 +17,7 @@ export const hentAlleKonsulenterSSG = async(): Promise<Konsulent[]> => {
 }
 
 export const hentKonsulentSSG = async(id: string): Promise<Konsulent> => {
-  const resultat = await fetch(`http://localhost:3050/api/konsulenter/${id}`);
+  const resultat = await fetch(`http://localhost:3050/api/konsulenter/${id}`, { cache: 'no-store' });
 
     if (!resultat.ok) {
         return notFound();

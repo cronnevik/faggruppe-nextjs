@@ -19,7 +19,7 @@ const KonsulenterSSG = async() => {
     }
     return (
         <div className="container">
-            <h3>Static Generation (SSG)</h3>
+            <h3>Static Site Generation (SSG)</h3>
             {renderKonsulenter()}
         </div>
     )
