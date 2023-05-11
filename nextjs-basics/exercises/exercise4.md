@@ -1,4 +1,4 @@
-# Øvelse 4 - 
+# Øvelse 4 - Data fetchin og Rendering
 
 ## 4.1 Lage en custom Error Page
 Et eksempel på utforming finnes [på Nextjs sine sider](https://nextjs.org/docs/app/building-your-application/routing/error-handling)
