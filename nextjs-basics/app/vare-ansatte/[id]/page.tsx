@@ -30,7 +30,9 @@ export default async function KonsulentProfil({
 }
 
 
-/* interface KonsiltenProfilProps {
+/* Øvelse 3 - dynamic routing
+
+interface KonsiltenProfilProps {
     params: {
         id: string
     }

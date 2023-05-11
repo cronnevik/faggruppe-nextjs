@@ -5,11 +5,11 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: nextjsfrontend
+    container_name: nextjsapi
     restart: always
     volumes:
       - ./:/app
       - /app/node_modules
       - /app/.next
     ports:
-      - 3001:3001
+      - 3050:3050

@@ -21,7 +21,9 @@ export default async function VareAnsatte() {
 
 
 
-/* import Konsulenter from '../components/konsulenter.component'
+/* Øvelse 3 - dynamic routing
+
+import Konsulenter from '../components/konsulenter.component'
 import { KonsulentData } from '@/ovelser/ressurser/konsulenter/konsulenter.data'
 
 export default function VareAnsatte() {
