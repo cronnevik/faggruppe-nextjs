@@ -11,15 +11,18 @@ const nextConfig = {
     appDir: true,
   },
   images: {
-    domains: ['www.uc.no']
+    domains: ['www.uc.no'],
   },
   modularizeImports: {
-    "@mui/material": {
-      transform: "@mui/material/{{member}}",
+    '@mui/material': {
+      transform: '@mui/material/{{member}}',
     },
-    "@mui/icons-material": {
-      transform: "@mui/icons-material/{{member}}",
+    '@mui/icons-material': {
+      transform: '@mui/icons-material/{{member}}',
     },
+  },
+  publicRuntimeConfig: {
+    port: 3003,
   },
 };
 

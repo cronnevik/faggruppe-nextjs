@@ -36,6 +36,8 @@ services:
       - api-node-modules:/app/node_modules
       - api-next-volume:/app/.next
     ports:
+      - 3003:3003
+      - 3002:3002
       - 3050:3050
 
 volumes: 
