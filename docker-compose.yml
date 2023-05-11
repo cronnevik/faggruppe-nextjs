@@ -3,37 +3,48 @@ version: "3"
 services:
   nextjsbasics:
     build:
-      context: .
-      dockerfile: ./nextjs-basics/Dockerfile
+      context: ./nextjs-basics/
+      dockerfile: Dockerfile
     container_name: basics
     restart: always
     volumes:
-      - ./:/app
-      - /app/node_modules
-      - /app/.next
+      - ./nextjs-basics:/app
+      - basic-node-modules:/app/node_modules
+      - basic-next-volume:/app/.next
     ports:
       - 3000:3000
   nextjsfrontend:
     build:
-      context: .
-      dockerfile: ./nextjs-frontend/Dockerfile
+      context: ./nextjs-frontend/
+      dockerfile: Dockerfile
     container_name: frontend
     restart: always
     volumes:
-      - ./:/app
-      - /app/node_modules
-      - /app/.next
+      - ./nextjs-frontend:/app
+      - frontend-node-modules:/app/node_modules
+      - frontend-next-volume:/app/.next
     ports:
       - 3001:3001
   nextjsapi:
     build:
-      context: .
-      dockerfile: ./nextjs-frontend/Dockerfile
+      context: ./nextjs-api/
+      dockerfile: Dockerfile
     container_name: api
     restart: always
     volumes:
-      - ./:/app
-      - /app/node_modules
-      - /app/.next
+      - ./nextjs-api:/app
+      - api-node-modules:/app/node_modules
+      - api-next-volume:/app/.next
     ports:
       - 3050:3050
+
+volumes: 
+  nextjs-api:
+  api-node-modules:
+  api-next-volume:
+  nextjs-frontend:
+  frontend-node-modules:
+  frontend-next-volume:
+  nextjs-basics:
+  basic-node-modules:
+  basic-next-volume:
